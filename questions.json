@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Find the value of x in the figure.",
+    "options": ["124°", "90°", "140°", "120°"],
+    "correct": 3,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "A polygon has four sides. The three angles of a four-sided polygon are 60°, 90°, and 110°. Determine the fourth angle.",
+    "options": ["100°", "90°", "60°", "180°"],
+    "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "Find the value of x in the given figure.",
+    "options": ["90°", "80°", "100°", "110°"],
+    "correct": 2,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "The angles of a quadrilateral are in the ratio of 1:2:3:4. Find the measure of each angle.",
+    "options": ["36°, 72°, 108°, 144°", "30°, 80°, 115°, 160°", "25°, 36°, 95°, 180°", "45°, 60°, 108°, 140°"],
+    "correct": 0,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "The given figure below shows a polygon with all its exterior angles. The value of x is:",
+    "options": ["10°", "18°", "20°", "36°"],
+    "correct": 1,
+      "img": "./assests/images/5.jpg"
+  }
+]
